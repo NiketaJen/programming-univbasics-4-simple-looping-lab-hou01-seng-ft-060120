@@ -1,7 +1,9 @@
 require 'pry'
 def loop_message_five_times(message) 
-  message= "Hello World"
-  5.times do 
-    puts (message)
+ n=4 
+ count=0 
+ while count <=0 do 
+   puts "Hello World"
+   count +=1 
 end
 
