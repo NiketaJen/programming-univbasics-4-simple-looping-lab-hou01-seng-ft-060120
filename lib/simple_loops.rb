@@ -6,6 +6,7 @@ message= "Hello World"
 end
 
 def loop_message_n_times (message, number)
+  message= ""
   
 end
   
